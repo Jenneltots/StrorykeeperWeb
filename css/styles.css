@@ -1,0 +1,153 @@
+#title {
+  background-color: #CBF1F5;
+}
+.container-fluid{
+  padding: 2% 10%;
+  }
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1;
+  margin-left: 25%;
+  padding-top: 15%;
+  color: #219F94;
+}
+.container-fluid .navbar-brand{
+  color: #219F94;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.nav-link{
+  font-size: 1rem;
+}
+.download-button-1{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 3%;
+  margin-left: 25%;
+}
+.download-button-2{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 3%;
+  margin-left: 2%;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size: 1.5rem;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: #219F94;
+}
+
+/* Media Query */
+
+@media (max-width:1008px){
+
+#title {
+  text-align: center;
+}
+.img-2{
+  margin-top: 10px;
+  position: static;
+}
+}
+
+
+#features{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  text-align: center;
+}
+p{
+  margin-left: 15%;
+  margin-right: 15%;
+  color: #74959A;
+}
+.icons{
+  color: #219F94;
+  font-size: 210%;
+}
+.icons:hover{
+  color: #3C4245;
+  font-size: 250%;
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #A6E3E9;
+  color: #219F94;
+}
+.carousel-item{
+  padding: 5% 15%;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 50%;
+  margin: 20px;
+  padding-top: 10px;
+}
+
+
+
+#press{
+  background-color: #A6E3E9;
+  text-align: center;
+  padding-bottom: 5%;
+}
+.press-logo{
+  width: 15%;
+  margin: 25px 25px 30px;
+}
+h2{
+  color: #219F94;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+.press-text{
+  background-color: #A6E3E9;
+  text-align: center;
+  padding-top: 25px;
+}
+
+
+#pricing{
+text-align: center;
+padding: 100px;
+}
+
+h3{
+  font-size: 2rem;
+  line-height: 1;
+}
+
+#pricing-column{
+  padding: 3% 2%;
+}
+
+@media (max-width:1008px){
+
+.card{
+  margin-top: 15px;
+}
+}
+
+
+
+#cta{
+  text-align: center;
+  background-color: #CBF1F5;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.download-button{
+  margin-top: 50px;
+}
+
+
+#footer{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
